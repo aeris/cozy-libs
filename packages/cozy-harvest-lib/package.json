@@ -35,7 +35,7 @@
     "react-proptypes": "1.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "7.2.3",
+    "@babel/cli": "7.4.3",
     "babel-jest": "24.1.0",
     "babel-preset-cozy-app": "^1.5.1",
     "enzyme": "3.9.0",
