@@ -17,7 +17,7 @@
     "@babel/cli": "7.2.3",
     "babel-preset-cozy-app": "^1.5.1",
     "btoa": "1.2.1",
-    "cozy-client-js": "0.14.2",
+    "cozy-client-js": "0.15.1",
     "jest": "24.1.0"
   },
   "scripts": {
